@@ -12,7 +12,7 @@ Hello!!!, SEJA BEM VINDO
                     
 Digite 1 para fazer operacoes pelo metodo de adicao: 
 Digite 2 para fazer operacoes pelo metodo de subtracao: 
-digite 3 para fazer operacoes pelo metodo de divisao: (nao funcionando ainda)
+digite 3 para fazer operacoes pelo metodo de divisao:
 ''')     
     match escolha:
             case '1':
